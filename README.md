@@ -1,8 +1,6 @@
 # Almabetter-Flashcard-Generator 
-# Group Project 
-
-# Team Members :- 1] Tushar Sonavane 2] Shubham Aagawane 3] Rushikesh Waghmare
-                  
+# Individual Project 
+# Name- Kavita Barthune
 
 This is a Flashcard Generator frontend capston project that Almabetter has provided.
 ## Deployment
