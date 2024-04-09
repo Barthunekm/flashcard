@@ -1,6 +1,6 @@
 # Almabetter-Flashcard-Generator 
 # Individual Project 
-# Name- Kavita Barthune
+# Name- Kavita Manohar Barthune
 
 This is a Flashcard Generator frontend capston project that Almabetter has provided.
 ## Deployment
